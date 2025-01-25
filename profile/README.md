@@ -4,6 +4,16 @@
 
 This GitHub organization is hosted by [liledix4](https://github.com/liledix4). Everyone can make their contributions absolutely freely. Forks are very welcome!
 
+## Criteria
+
+- This GitHub organization only accepts projects explicitly based on already known media, including small projects with little publicity (such as [Zombie Hive](https://github.com/lilFM/ZombieHive)).
+- If the project has the potential for high recognition, it would be better to consider a separate GitHub organization instead of putting repositories in the *lilFM* organization.
+
+## Related organizations and repositories
+
+- ***[Bombs vs. Sleepwalkers](https://github.com/BvSGame)*** – despite regular references to popular media and being clearly inspired by popular works, this project is considered original. Additionally, it's a separate GitHub organization, because in terms of recognizability, this project is considered too big for *lilFM*.
+- ***[Doki Doki Literature Club! New Heading](https://github.com/DDLCNH)*** – separate GitHub organization, because in terms of recognizability, this project is considered too big for *lilFM*.
+
 ## Licenses
 
 Each repository in this organization is created solely for entertainment, educational, and research purposes.
