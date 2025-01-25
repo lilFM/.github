@@ -11,7 +11,7 @@ This GitHub organization is hosted by [liledix4](https://github.com/liledix4). E
 
 ## Related organizations and repositories
 
-- ***[Bombs vs. Sleepwalkers](https://github.com/BvSGame)*** – despite regular references to popular media and being clearly inspired by popular works, this project is considered original. Additionally, it's a separate GitHub organization, because in terms of recognizability, this project is considered too big for *lilFM*.
+- ***[Bombs vs. Sleepwalkers](https://github.com/BvSGame)*** – despite regular references to popular media and being clearly inspired by popular works, this project is considered original. Additionally, it’s a separate GitHub organization, because in terms of recognizability, this project is considered too big for *lilFM*.
 - ***[Doki Doki Literature Club! New Heading](https://github.com/DDLCNH)*** – separate GitHub organization, because in terms of recognizability, this project is considered too big for *lilFM*.
 
 ## Licenses
